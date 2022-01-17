@@ -1,0 +1,15 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\bin\Debug\netcoreapp3.1\rehberdeneme.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\bin\Debug\netcoreapp3.1\rehberdeneme.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\bin\Debug\netcoreapp3.1\rehberdeneme.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\bin\Debug\netcoreapp3.1\rehberdeneme.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\bin\Debug\netcoreapp3.1\rehberdeneme.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\bin\Debug\netcoreapp3.1\rehberdeneme.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\rehberdeneme\rehberdeneme\obj\Debug\netcoreapp3.1\rehberdeneme.genruntimeconfig.cache
